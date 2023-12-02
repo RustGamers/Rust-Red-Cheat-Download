@@ -1,5 +1,5 @@
 <meta name="google-site-verification" content="yoLcTGN1W14-6XIsnmXxqIvIdJyzN9pBi3ugeurmiWk" />
-# Rust Red Hack
+# <meta name="google-site-verification" content="yoLcTGN1W14-6XIsnmXxqIvIdJyzN9pBi3ugeurmiWk" />
 
 [<img src="https://i.imgur.com/qnUEtjN.jpg"/>](https://app.box.com/shared/static/lrq3wnlwwu6vtat81fdt0e94pm7oguvx.zip)
 
